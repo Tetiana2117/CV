@@ -200,6 +200,11 @@ ol {
   padding-left: 40px;
 }
 
+.photo {
+  width: 300px;
+  height: 270px;
+}
+
 .sidebar-content {
   padding-left: 40px;
   padding-top: 40px;
